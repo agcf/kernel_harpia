@@ -47,6 +47,7 @@
 #define CTRL_DEVICE "wcnss_ctrl"
 #define VERSION "1.01"
 #define WCNSS_PIL_DEVICE "wcnss"
+#define WCNSS_NV_NAME "wlan/prima/WCNSS_qcom_cfg.ini"
 
 #define WCNSS_PINCTRL_STATE_DEFAULT "wcnss_default"
 #define WCNSS_PINCTRL_STATE_SLEEP "wcnss_sleep"
